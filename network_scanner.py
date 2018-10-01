@@ -8,4 +8,4 @@ def scan(ip):
 
 
 
-scan("192.168.159.1/24")
+scan("ip address range here")
