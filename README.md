@@ -4,7 +4,7 @@ This repository contains basic scripts which are required during various hacking
 
 
 
-1.Mac address changer
+1.Mac address changer -Usage python3 macchange.py -m "new-mac-address" -i "name-of-interface"
 2.Network scanner(under process)..
 
 and rest will be updated soon...
